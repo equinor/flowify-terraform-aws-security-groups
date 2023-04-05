@@ -1,0 +1,7 @@
+vpc_id                 = ""
+egress_rules_to_any    = []
+egress_cidr_blocks     = []
+ingress_rules          = []
+ingress_rules_from_any = []
+ingress_cidr_blocks    = []
+egress_rules           = []
